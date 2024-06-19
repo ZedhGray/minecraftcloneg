@@ -23,8 +23,8 @@ export const useKeyboard = () => {
     dirt: false,
     grass: false,
     glass: false,
-    wood: false,
     log: false,
+    wood: false,
   })
 
   useEffect(() => {
